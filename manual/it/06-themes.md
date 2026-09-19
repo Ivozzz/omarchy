@@ -2,7 +2,7 @@
 
 # Temi
 
-Omarchy viene con ventidue bellissimi temi. Puoi selezionarli via _Style > Theme_ nel menu di Omarchy (`Super + Space`) oppure saltare direttamente al selettore dei temi con `Super + Ctrl + Shift + Space`.
+Omarchy nasce con ventidue bellissimi temi. Puoi selezionarli via _Style > Theme_ nel menu di Omarchy (`Super + Space`) oppure saltare direttamente al selettore dei temi con `Super + Ctrl + Shift + Space`.
 
 Ogni tema applica lo stile al desktop, al terminale, a neovim, alla schermata delle attività (btop), a Chromium e all'intera shell di Omarchy: barra superiore, menu, notifiche, OSD e schermata di blocco. (Per Obsidian devi selezionare manualmente il tema di Omarchy via _Appearance > Themes_ dentro l'app).
 
