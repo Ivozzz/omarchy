@@ -2,7 +2,7 @@
 
 # La barra superiore
 
-La striscia lungo il bordo superiore dello schermo è la barra di Omarchy. Non è una barra di stato avvitata a posteriori, ma fa parte della shell di Omarchy, l'unico processo Quickshell sempre in esecuzione che disegna anche il menu, le notifiche, i popup OSD e la schermata di blocco. Ecco perché si abbina perfettamente al tema di tutto il resto e perché un pannello si apre all'istante invece di avviare una nuova applicazione.
+La striscia lungo il bordo superiore dello schermo è la barra di Omarchy. Non è una barra di stato incollata a posteriori, ma fa parte della shell di Omarchy, l'unico processo Quickshell sempre in esecuzione che disegna anche il menu, le notifiche, i popup OSD e la schermata di blocco. Ecco perché si abbina perfettamente al tema di tutto il resto e perché un pannello si apre all'istante invece di avviare una nuova applicazione.
 
 È anche l'unico elemento del desktop sempre sullo schermo, quindi vale la pena sapere cosa fanno tutti quei piccoli glifi.
 
@@ -96,7 +96,7 @@ omarchy bar set omarchy.clock format "HH:mm"
 omarchy bar defaults          # back to the shipped layout
 ```
 
-Per aggiungere o rimuovere del tutto un widget, usa i comandi dei plugin. `omarchy plugin list` stampa ogni widget che la shell conosce con il suo id, e poi:
+Per aggiungere o rimuovere del tutto un widget, usa i comandi dei plugin. `omarchy plugin list` mostra ogni widget che la shell conosce con il suo id, e poi:
 
 ```bash
 omarchy plugin enable omarchy.media --section center
@@ -105,7 +105,7 @@ omarchy plugin disable omarchy.weather
 
 ## Nascondere la barra
 
-`Super + Shift + Space` attiva e disattiva la barra senza uccidere la shell — pannelli e scorciatoie continuano a funzionare, ti riprendi solo i pixel. È anche nel menu sotto **Trigger → Toggle → Menu Bar**.
+`Super + Shift + Space` attiva e disattiva la barra senza terminare la shell — pannelli e scorciatoie continuano a funzionare, ti riprendi solo i pixel. È anche nel menu sotto **Trigger → Toggle → Menu Bar**.
 
 ## Il file di configurazione
 
@@ -131,6 +131,6 @@ Ogni widget è una voce in uno dei tre array di layout, e le sue impostazioni st
 
 `centerAnchor` indica l'unico widget centrale che viene fissato al centro esatto dello schermo, con gli altri che gli fanno da fianchi. È così che l'orologio resta esattamente al centro anche quando meteo e badge di aggiornamento vanno e vengono. Impostalo su una stringa vuota e la lista centrale viene semplicemente centrata come gruppo.
 
-Una regola da interiorizzare: **una volta che hai il tuo `shell.json`, è quello canonico**. Finché non personalizzi nulla, la shell legge il file predefinito di Omarchy. Nel momento in cui trascini un widget, esegui `omarchy bar` o modifichi il file tu stesso, è tuo — non c'è un merge profondo, quindi i nuovi widget predefiniti delle future release di Omarchy non appariranno automaticamente sulla tua barra. `omarchy bar defaults` rimette il layout fornito ogni volta che vuoi ricominciare da zero.
+Una regola da memorizzare: **una volta che hai il tuo `shell.json`, è quello canonico**. Finché non personalizzi nulla, la shell legge il file predefinito di Omarchy. Nel momento in cui trascini un widget, esegui `omarchy bar` o modifichi il file tu stesso, è tuo — non c'è un merge profondo, quindi i nuovi widget predefiniti delle future release di Omarchy non appariranno automaticamente sulla tua barra. `omarchy bar defaults` rimette il layout fornito ogni volta che vuoi ricominciare da zero.
 
 Lo stesso file contiene anche i tuoi tempi di inattività al livello superiore, fuori dalla chiave `bar`: `idle.screensaver` e `idle.lock`, entrambi in secondi da quando sei andato inattivo. Quindi lo screensaver predefinito parte a 150 secondi e il blocco a 300.
