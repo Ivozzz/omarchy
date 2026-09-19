@@ -54,7 +54,7 @@ I pannelli non sono solo display. È lì che fai davvero le cose:
 - **Audio** ha uno slider del volume principale, un selettore del dispositivo di uscita e un mixer per applicazione, così puoi abbassare quella singola scheda del browser senza toccare tutto il resto.
 - **Rete** cerca reti Wi-Fi, mostra la potenza del segnale, si connette e ti lascia scegliere un provider DNS.
 - **Bluetooth** elenca i tuoi dispositivi con connessione/disconnessione e livelli di batteria.
-- **Alimentazione** mostra le statistiche della batteria, cambia profilo di alimentazione (ricorda una scelta separata per batteria e corrente) e stampa qualche informazione di sistema.
+- **Alimentazione** mostra le statistiche della batteria, cambia profilo di alimentazione (ricorda una scelta separata per batteria e corrente) e mostra qualche informazione di sistema.
 - **Display** offre uno slider della luminosità, la dimensione del testo, preset di scalatura del monitor e — quando hai più di uno schermo — controlli per singolo monitor. Per la storia completa vedi [monitor](../33-monitors.md).
 - **Orologio** apre una griglia mensile con i numeri di settimana ISO e il passaggio da un mese all'altro.
 
