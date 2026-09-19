@@ -24,7 +24,7 @@ La cifratura del disco intero non permette di inserire la password da una tastie
 
 ### Installare per un altro proprietario
 
-Se stai preparando una macchina per qualcun altro — un familiare, un nuovo dipendente, un acquirente — non dovresti rispondere alle domande personali al posto suo. Premi `Ctrl + C` sulla primissima schermata dell'installer (la selezione della tastiera) e Omarchy ti offrirà di preparare la macchina per un altro proprietario. Il sistema si installa subito, ma tutta la configurazione personale — layout della tastiera, nome utente, password — viene rinviata al primo avvio. L'unità resta cifrata per impostazione predefinita, e la password scelta dal nuovo proprietario a quel primo avvio diventa anche la password di cifratura. (Anche una macchina che hai già usato può essere ceduta senza reinstallare: vedi [ripristinare il computer](../48-security.md).)
+Se stai preparando una macchina per qualcun altro — un familiare, un nuovo dipendente, un cliente — non dovresti rispondere alle domande personali al posto suo. Premi `Ctrl + C` sulla primissima schermata dell'installer (la selezione della tastiera) e Omarchy ti offrirà di preparare la macchina per un altro proprietario. Il sistema si installa subito, ma tutta la configurazione personale — layout della tastiera, nome utente, password — viene rinviata al primo avvio. L'unità resta cifrata per impostazione predefinita, e la password scelta dal nuovo proprietario a quel primo avvio diventa anche la password di cifratura. (Anche una macchina che hai già usato può essere ceduta senza reinstallare: vedi [ripristinare il computer](../48-security.md).)
 
 ### Installazioni non presidiate
 

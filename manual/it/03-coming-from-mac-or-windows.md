@@ -2,7 +2,7 @@
 
 # Arrivi da Mac o Windows
 
-Se hai passato anni su macOS o Windows, le tue dita conoscono cento cose che il tuo cervello ha dimenticato di aver mai imparato. Questo capitolo è il livello di traduzione: dove finiscono quegli istinti in Omarchy. Le funzionalità in sé sono trattate in dettaglio altrove — questa è solo la mappa.
+Se hai passato anni su macOS o Windows, le tue dita conoscono cento cose che il tuo cervello ha dimenticato di aver mai imparato. Questo capitolo è una sorta di traduzione: dove finiscono quegli istinti in Omarchy. Le funzionalità in sé sono trattate in dettaglio altrove — questa è solo la mappa.
 
 ### Super è il centro di tutto
 
@@ -12,21 +12,21 @@ Il tuo riflesso da Spotlight, Raycast o menu Start diventa `Super + Space`. Apre
 
 ### Non ci sono dock né icone sul desktop
 
-Niente da cliccare per avviare le cose, nessuna icona da sistemare sul desktop. Le applicazioni si avviano da una scorciatoia (`Super + Return` per il terminale, `Super + Shift + Return` per il browser e `Super + K` per un elenco di tutto ciò che è mappato) oppure dal menu. L'unico elemento persistente dell'interfaccia è [la barra superiore](../05-the-top-bar.md), che copre ciò che prima facevano per te la barra dei menu, l'area di notifica e il Centro notifiche — e quasi ogni widget su di essa fa qualcosa con il clic sinistro, destro e centrale.
+Niente da cliccare per avviare le cose, nessuna icona da sistemare sul desktop. Le applicazioni si avviano da una scorciatoia (`Super + Return` per il terminale, `Super + Shift + Return` per il browser e `Super + K` per un elenco di tutto ciò che è mappato) oppure dal menu. L'unico elemento persistente dell'interfaccia è [la barra superiore](05-the-top-bar.md), che fa tutto ciò che prima facevano per te la barra dei menu, l'area di notifica e il Centro notifiche — e quasi ogni widget su di essa fa qualcosa con il clic sinistro, destro e centrale.
 
 ### Le finestre si dispongono da sole
 
 Il cambiamento mentale più grande: non trascini le finestre né le agganci a metà schermo. Apri una finestra e occupa tutto lo schermo. Ne apri una seconda e dividono lo schermo. Non peschi mai una finestra da sotto un'altra, perché le finestre non si sovrappongono.
 
-Quando ti serve davvero una finestra flottante, `Super + T` estrae quella attiva dalla tassellazione (e ce la rimette). Ma prima dai davvero una possibilità alla tassellazione: è il cuore di tutto. La [navigazione](04-navigation.md) ti guida attraverso di essa.
+Quando ti serve davvero una finestra flottante, `Super + T` estrae quella attiva dai riquadri (e ce la rimette). Ma prima dai davvero una possibilità ai riquadri: è il cuore di tutto. La [navigazione](04-navigation.md) ti guida attraverso di essa.
 
 I workspace ti sembreranno familiari: sono gli Space di macOS o i desktop virtuali di Windows, solo che li userai davvero, perché `Super + 1/2/3/4` salta direttamente a uno e `Super + Shift + 1/2/3/4` ci manda la finestra attiva. Nessun ritardo di animazione, solo salti istantanei. Questo significa che potresti non aver nemmeno bisogno di più monitor, se eri abituato ad averli.
 
 ### Copia e incolla funzionano e basta
 
-Sul Mac avevi Cmd + C ovunque. Su Windows avevi Ctrl + C ovunque — tranne nel terminale, dove ammazza il tuo programma. Omarchy ti dà `Super + C`, `Super + X` e `Super + V`, e funzionano ovunque, terminale incluso. Nessun riflesso separato da imparare per la shell.
+Sul Mac avevi Cmd + C ovunque. Su Windows avevi Ctrl + C ovunque — tranne nel terminale, dove incasina il tuo programma. Omarchy ti dà `Super + C`, `Super + X` e `Super + V`, e funzionano ovunque, terminale incluso. Nessun riflesso separato da imparare per la shell.
 
-Per chi viene da Windows: la cronologia degli appunti di Win + V vive su `Super + Ctrl + V` e contiene anche immagini, oltre al testo. Vedi [appunti unificati e cronologia](../08-unified-clipboard-history.md).
+Per chi viene da Windows: la cronologia degli appunti di Win + V è richiamabile con `Super + Ctrl + V` e funziona anche con le immagini, oltre al testo. Vedi [appunti unificati e cronologia](08-unified-clipboard-history.md).
 
 ### La tabella di traduzione
 
@@ -42,18 +42,18 @@ Per chi viene da Windows: la cronologia degli appunti di Win + V vive su `Super 
 
 ### Alcune cose sono davvero diverse
 
-Molte impostazioni vivono in file di testo che modifichi, non in pannelli su cui clicchi. Sembra primitivo, finché non capisci che significa che ogni modifica può essere vista, copiata sulla tua prossima macchina e messa sotto controllo di versione. Il menu _Setup_ ti porta dritto al file giusto e riavvia ciò che serve al termine.
+Molte impostazioni si trovano in file di testo da modificare, non in pannelli su cui clicchi. Sembra primitivo, finché non capisci che significa che ogni modifica può essere vista, copiata sulla tua prossima macchina e messa sotto controllo di versione. Il menu _Setup_ ti porta dritto al file giusto e riavvia ciò che serve al termine.
 
-Gli aggiornamenti arrivano con un unico comando — _Update > Omarchy_ — che aggiorna Omarchy stesso e ogni pacchetto del sistema, dopo aver creato uno snapshot. Nessun aggiornatore per singola app che ti assilla a caso. Vedi [aggiornamenti](../30-updates.md).
+Gli aggiornamenti arrivano con un unico comando — _Update > Omarchy_ — che aggiorna Omarchy stesso e ogni pacchetto del sistema, dopo aver creato uno snapshot. Nessun update per singola app che ti assilla a caso. Vedi [aggiornamenti](../30-updates.md).
 
 Il software arriva da un gestore di pacchetti, non da installer scaricati.
 
-E quando chiudi una finestra, l'applicazione esce davvero. Non esiste il limbo di macOS in cui il programma continua a girare senza finestre. `Super + W` — o `Super + Q`, se è la memoria delle dita con cui sei arrivato — significa sparita.
+E quando chiudi una finestra, l'applicazione esce davvero. Non esiste il limbo di macOS in cui il programma continua a girare senza finestre. `Super + W` — o `Super + Q`, se è la memoria delle dita con cui sei arrivato — significa chiusa per davvero.
 
 ### Su hardware Mac
 
-Omarchy gira bene sui Mac Intel — vedi [supporto Mac](../44-mac-support.md). E la tastiera ti è gentile: Omarchy non rimappa nulla, e Linux tratta il tasto Command come Super, quindi Super sta proprio dove è sempre stato Cmd. Il tuo pollice non noterà il passaggio.
+Omarchy gira bene sui Mac Intel — vedi [supporto Mac](../44-mac-support.md). E la tastiera ti è amica: Omarchy non rimappa nulla, e Linux tratta il tasto Command come Super, quindi Super sta proprio dove è sempre stato Cmd. Il tuo pollice non si accorgerà di nulla.
 
 ### Dagli due settimane
 
-Gli istinti si trasferiscono più in fretta di quanto pensi. Dai una scorsa una volta al capitolo delle [scorciatoie](../07-hotkeys.md) e, ogni volta che ti dimentichi un binding, premi `Super + K` — te li mostra tutti. È l'unica scorciatoia che devi davvero memorizzare.
+Gli istinti si trasferiscono più in fretta di quanto pensi. Dai una scorsa una volta al capitolo delle [scorciatoie](07-hotkeys.md) e, ogni volta che te ne dimentichi una, premi `Super + K` — te li mostra tutti. È l'unica scorciatoia che devi davvero memorizzare.

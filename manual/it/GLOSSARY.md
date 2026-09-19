@@ -17,7 +17,7 @@
 | pane | pannello | Nei contesti Tmux e terminale |
 | scratchpad | scratchpad | Nome del workspace speciale in Hyprland |
 | snapshot | snapshot | |
-| tiling window manager | window manager a tassellazione | |
+| tiling window manager | window manager a riquadri | |
 | top bar | barra superiore | |
 | unattended install | installazione non presidiata | |
 | wired keyboard | tastiera cablata | |

@@ -4,7 +4,7 @@
 
 In Omarchy tutto avviene tramite la tastiera — _TUTTO!_ Al primo avvio del sistema, letteralmente non puoi fare nulla solo con il mouse. Ma puoi premere `Super + Space` per rivelare il menu di Omarchy e da qui fare praticamente tutto.
 
-Eppure il menu di Omarchy non è nemmeno pensato per essere il modo principale di usare il sistema la maggior parte del tempo. Possiamo essere più veloci! Tutte le applicazioni più importanti sono legate direttamente a singole scorciatoie. Avvii il terminale con `Super + Return` e un browser con `Super + Shift + Return`. Prova a fare uno dopo l'altro e vedrai la magia della tassellazione di Hyprland in azione:
+Eppure il menu di Omarchy non è nemmeno pensato per essere il modo principale di usare il sistema la maggior parte del tempo. Possiamo essere più veloci! Tutte le applicazioni più importanti sono legate direttamente a singole scorciatoie. Avvii il terminale con `Super + Return` e un browser con `Super + Shift + Return`. Prova a fare uno dopo l'altro e vedrai la magia dei riquadri di Hyprland in azione:
 
  ![Browser e terminale](../images/navigation-browser-terminal.webp)
 
@@ -14,9 +14,9 @@ Puoi poi premere `Super + J` per impilarli uno sopra l'altro invece che affianca
 
 Premi di nuovo `Super + J` per riportarli nelle posizioni affiancate. Poi prova `Super + Shift + Freccia destra` mentre sei sul browser per scambiare le finestre.
 
-Ora prova `Super + Ctrl + T` per avviare il monitor delle attività. Apparirà come finestra flottante. Puoi tassellarla con `Super + T` (e premere di nuovo per renderla di nuovo flottante). Ora premi `Super + Shift + F` per aprire il gestore dei file. Avrai una bella disposizione a quattro:
+Ora prova `Super + Ctrl + T` per avviare il monitor delle attività. Apparirà come finestra flottante. Puoi fissarla con `Super + T` (e premere di nuovo per renderla di nuovo flottante). Ora premi `Super + Shift + F` per aprire il gestore dei file. Avrai una bella disposizione a quattro:
 
- ![Tassellazione a quattro finestre](../images/navigation-fourway-tiling.webp)
+ ![Riquadri a quattro finestre](../images/navigation-fourway-tiling.webp)
 
 Ti sposti tra le finestre e scegli quella attiva con `Super + Freccia`. Questo cambia il focus e sposta il cursore al centro della nuova applicazione.
 
