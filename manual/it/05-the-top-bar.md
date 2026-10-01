@@ -1,4 +1,4 @@
-<!-- upstream: omacom/omarchy@60663faf8764253646f1d6166e864b608d4a0fa1; sha256: 69456d1fbdc0f78fdaaf1197e67eb0bd0385edbe2b77136bcd181bb8954f3766 -->
+<!-- upstream: omacom/omarchy@8b4eae66da2938ba9559f103b18dbf85cdf28a70; sha256: 4cbcad63647a8cc960493054a37519646dd9c5ef5e733d06f218478b588345e9 -->
 
 # La barra superiore
 
@@ -47,6 +47,7 @@ Cliccando un'icona della barra si apre un pannello, cioè un vero popup con slid
 | `Super + Ctrl + D` | Display |
 | `Super + Ctrl + P` | Alimentazione |
 | `Super + Ctrl + Alt + D` | Calendario |
+| `Super + Ctrl + Alt + E` | Orologio mondiale |
 | `Super + Ctrl + 1-9` | Attiva/disattiva l'n-esimo pannello nella sezione destra |
 
 I pannelli non sono solo display. È lì che fai davvero le cose:
@@ -93,7 +94,7 @@ omarchy bar position bottom
 omarchy bar transparent toggle
 omarchy bar move omarchy.clock --section center --index 0
 omarchy bar set omarchy.clock format "HH:mm"
-omarchy bar defaults          # back to the shipped layout
+omarchy bar defaults          # torna al layout predefinito
 ```
 
 Per aggiungere o rimuovere del tutto un widget, usa i comandi dei plugin. `omarchy plugin list` mostra ogni widget che la shell conosce con il suo id, e poi:

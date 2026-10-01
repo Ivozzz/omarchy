@@ -24,7 +24,7 @@ I workspace ti sembreranno familiari: sono gli Space di macOS o i desktop virtua
 
 ### Copia e incolla funzionano e basta
 
-Sul Mac avevi Cmd + C ovunque. Su Windows avevi Ctrl + C ovunque — tranne nel terminale, dove incasina il tuo programma. Omarchy ti dà `Super + C`, `Super + X` e `Super + V`, e funzionano ovunque, terminale incluso. Nessun riflesso separato da imparare per la shell.
+Sul Mac avevi Cmd + C ovunque. Su Windows avevi Ctrl + C ovunque — tranne nel terminale, dove interrompe il programma. Omarchy ti dà `Super + C`, `Super + X` e `Super + V`, e funzionano ovunque, terminale incluso. Nessun riflesso separato da imparare per la shell.
 
 Per chi viene da Windows: la cronologia degli appunti di Win + V è richiamabile con `Super + Ctrl + V` e funziona anche con le immagini, oltre al testo. Vedi [appunti unificati e cronologia](08-unified-clipboard-history.md).
 

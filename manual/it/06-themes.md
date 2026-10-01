@@ -8,7 +8,7 @@ Ogni tema applica lo stile al desktop, al terminale, a neovim, alla schermata de
 
 I temi hanno una serie di immagini di sfondo tra cui scegliere con `Super + Ctrl + Space`.
 
-Puoi trovare ancora più temi su [the extra themes page](https://omarchy.org/themes/) o persino [creare il tuo tema](../43-making-your-own-theme.md).
+Puoi trovare ancora più temi sulla [pagina dei temi extra](https://omarchy.org/themes/) o persino [creare il tuo tema](../43-making-your-own-theme.md).
 
  ![tokyo-night](../../themes/tokyo-night/preview.png)
 _Tokyo Night_

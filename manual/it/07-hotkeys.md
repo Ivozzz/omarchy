@@ -1,4 +1,4 @@
-<!-- upstream: omacom/omarchy@60663faf8764253646f1d6166e864b608d4a0fa1; sha256: b0dbe327ff90bb2c7ce71da35edc3fb5ddf7959b95ceef38eb41f7843d467c84 -->
+<!-- upstream: omacom/omarchy@8b4eae66da2938ba9559f103b18dbf85cdf28a70; sha256: d8e7d5bdbfb5122e46a291d18c082a66ec4c5557b92e0d93f557096d96a99b43 -->
 
 # Scorciatoie
 
@@ -70,11 +70,12 @@ Puoi vedere tutti i binding principali della tastiera con `Super + K` (i binding
 | `Super + Ctrl + D`           | Pannello display    |
 | `Super + Ctrl + P`           | Pannello alimentazione    |
 | `Super + Ctrl + Alt + D`           | Pannello calendario    |
+| `Super + Ctrl + Alt + E`           | Pannello orologio mondiale    |
 | `Super + Ctrl + 1-9`           | Attiva/disattiva il pannello della barra per posizione    |
 | `Super + Ctrl + S` | Menu di condivisione (via LocalSend) |
 | `Super + Ctrl + T`           | Attività (btop)    |
 | `Super + Ctrl + C` | Controlli di cattura (screenshot/registrazione/selettore) |
-| `Super + Ctrl + O` | Attiva/disattiva il menu |
+| `Super + Ctrl + O` | Menu Toggle |
 | `Super + Ctrl + H` | Menu hardware |
 | `Super + Ctrl + Q` | Calcolatrice |
 | `Super + Ctrl + E` | Selettore emoji |
@@ -341,29 +342,29 @@ Puoi usare `Super + Ctrl + E` per mostrare un selettore emoji completo che mette
 
 | Scorciatoia       | EM | Indizio       |
 | ------------ | -- | ---------- |
-| `CapsLock M S` | 😄 | sorriso      |
-| `CapsLock M C` | 😂 | pianto      |
-| `CapsLock M L` | 😍 | amore       |
-| `CapsLock M V` | ✌️ | vittoria    |
-| `CapsLock M H` | ❤️ | cuore      |
-| `CapsLock M Y` | 👍 | sì      |
+| `CapsLock M S` | 😄 | smile (sorriso)      |
+| `CapsLock M C` | 😂 | cry (pianto)      |
+| `CapsLock M L` | 😍 | love (amore)       |
+| `CapsLock M V` | ✌️ | victory (vittoria)    |
+| `CapsLock M H` | ❤️ | heart (cuore)      |
+| `CapsLock M Y` | 👍 | yes (sì)      |
 | `CapsLock M N` | 👎 | no         |
-| `CapsLock M F` | 🖕 | cazzo      |
-| `CapsLock M W` | 🤞 | desiderio       |
+| `CapsLock M F` | 🖕 | fuck (cazzo)      |
+| `CapsLock M W` | 🤞 | wish (desiderio)       |
 | `CapsLock M R` | 🤘 | rock       |
-| `CapsLock M K` | 😘 | bacio      |
-| `CapsLock M E` | 🙄 | occhi al cielo    |
-| `CapsLock M I` | 😉 | occhiolino      |
-| `CapsLock M P` | 🙏 | preghiera |
-| `CapsLock M D` | 🤤 | acquolina      |
-| `CapsLock M M` | 💰 | soldi      |
+| `CapsLock M K` | 😘 | kiss (bacio)      |
+| `CapsLock M E` | 🙄 | eyeroll (occhi al cielo)    |
+| `CapsLock M I` | 😉 | wink (occhiolino)      |
+| `CapsLock M P` | 🙏 | pray (preghiera) |
+| `CapsLock M D` | 🤤 | drool (acquolina)      |
+| `CapsLock M M` | 💰 | money (soldi)      |
 | `CapsLock M X` | 🎉 | xellebrate |
 | `CapsLock M 1` | 💯 | 100%       |
-| `CapsLock M T` | 🥂 | brindisi      |
+| `CapsLock M T` | 🥂 | toast (brindisi)      |
 | `CapsLock M O` |👌 | ok |
-| `CapsLock M G` |👋 | saluto |
-| `CapsLock M A` |💪 | braccio |
-| `CapsLock M B` |🤯 | testa che esplode |
+| `CapsLock M G` |👋 | greeting (saluto) |
+| `CapsLock M A` |💪 | arm (braccio) |
+| `CapsLock M B` |🤯 | blowing (testa che esplode) |
 
 ## Completamenti rapidi
 

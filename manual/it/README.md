@@ -13,7 +13,7 @@ Traduzione italiana del [manuale ufficiale di Omarchy](../01-welcome-to-omarchy.
 7. [Scorciatoie](07-hotkeys.md)
 8. [Appunti unificati e cronologia](08-unified-clipboard-history.md)
 
-La traduzione è verificata rispetto a `omacom/omarchy` al commit `60663faf8764253646f1d6166e864b608d4a0fa1`. L'hash dell'originale è indicato all'inizio di ogni capitolo tradotto, così le modifiche si possono individuare senza ricontrollare l'intero manuale.
+La traduzione è verificata rispetto a `omacom/omarchy`: il commit e l'hash dell'originale sono indicati all'inizio di ogni capitolo tradotto, così le modifiche si possono individuare senza ricontrollare l'intero manuale.
 
 ## Come contribuire
 

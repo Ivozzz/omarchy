@@ -12,13 +12,13 @@ Puoi poi premere `Super + J` per impilarli uno sopra l'altro invece che affianca
 
  ![Finestre impilate](../images/navigation-stacked.webp)
 
-Premi di nuovo `Super + J` per riportarli nelle posizioni affiancate. Poi prova `Super + Shift + Freccia destra` mentre sei sul browser per scambiare le finestre.
+Premi di nuovo `Super + J` per riportarli nelle posizioni affiancate. Poi prova `Super + Shift + Arrow Right` mentre sei sul browser per scambiare le finestre.
 
-Ora prova `Super + Ctrl + T` per avviare il monitor delle attività. Apparirà come finestra flottante. Puoi fissarla con `Super + T` (e premere di nuovo per renderla di nuovo flottante). Ora premi `Super + Shift + F` per aprire il gestore dei file. Avrai una bella disposizione a quattro:
+Ora prova `Super + Ctrl + T` per avviare il monitor delle attività. Apparirà come finestra flottante. Puoi inserirla nei riquadri con `Super + T` (e premere di nuovo per renderla di nuovo flottante). Ora premi `Super + Shift + F` per aprire il gestore dei file. Avrai una bella disposizione a quattro:
 
  ![Riquadri a quattro finestre](../images/navigation-fourway-tiling.webp)
 
-Ti sposti tra le finestre e scegli quella attiva con `Super + Freccia`. Questo cambia il focus e sposta il cursore al centro della nuova applicazione.
+Ti sposti tra le finestre e scegli quella attiva con `Super + Arrow`. Questo cambia il focus e sposta il cursore al centro della nuova applicazione.
 
 Se premi `Super + Shift + 2`, sposterai l'applicazione attualmente a fuoco sul secondo workspace. `Super + Shift + 1` la riporta indietro. (E `Super + Shift + Alt + 2` sposterà l'applicazione a fuoco sul secondo workspace senza passare ad esso).
 
@@ -52,9 +52,9 @@ hl.config({
 
 ### Raggruppare le finestre
 
-Le finestre possono essere raggruppate con `Super + G`. Una volta che sei in un gruppo, ogni finestra che avvii mentre è attivo apparterrà al gruppo. Puoi spostarti tra queste finestre raggruppate con `Super + Ctrl + Freccia sinistra/destra` o con `Super + Alt + 1/2/3/4` per andare direttamente alla finestra raggruppata in ordine.
+Le finestre possono essere raggruppate con `Super + G`. Una volta che sei in un gruppo, ogni finestra che avvii mentre è attivo apparterrà al gruppo. Puoi spostarti tra queste finestre raggruppate con `Super + Ctrl + Arrow Left/Right` o con `Super + Alt + 1/2/3/4` per andare direttamente alla finestra raggruppata in ordine.
 
-Puoi far uscire una finestra dal gruppo con `Super + Alt + G` oppure disfare l'intero gruppo premendo di nuovo `Super + G`. Infine, puoi spostare finestre esterne al gruppo dentro di esso con `Super + Alt + Frecce`.
+Puoi far uscire una finestra dal gruppo con `Super + Alt + G` oppure disfare l'intero gruppo premendo di nuovo `Super + G`. Infine, puoi spostare finestre esterne al gruppo dentro di esso con `Super + Alt + Arrows`.
 
 ### Far "poppare" le finestre
 
